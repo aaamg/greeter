@@ -9,3 +9,6 @@ server.get('/', (req, res) => {
 server.listen(4000, () => {
   console.log('\n Server running on port 4000 \n');
 });
+
+
+//pkgjson // "start": "node index.js"
